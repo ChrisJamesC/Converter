@@ -1,0 +1,13 @@
+c:\users\christopher\documents\visual studio 2010\Projects\Converter\Converter\obj\Debug\ResolveAssemblyReference.cache
+c:\users\christopher\documents\visual studio 2010\Projects\Converter\Converter\obj\Debug\App.g.i.cs
+c:\users\christopher\documents\visual studio 2010\Projects\Converter\Converter\obj\Debug\MainPage.g.i.cs
+c:\users\christopher\documents\visual studio 2010\Projects\Converter\Converter\obj\Debug\Converter.g.resources
+c:\users\christopher\documents\visual studio 2010\Projects\Converter\Converter\Bin\Debug\ApplicationIcon.png
+c:\users\christopher\documents\visual studio 2010\Projects\Converter\Converter\Bin\Debug\Background.png
+c:\users\christopher\documents\visual studio 2010\Projects\Converter\Converter\Bin\Debug\Converter.dll
+c:\users\christopher\documents\visual studio 2010\Projects\Converter\Converter\Bin\Debug\Converter.pdb
+c:\users\christopher\documents\visual studio 2010\Projects\Converter\Converter\obj\Debug\Converter.dll
+c:\users\christopher\documents\visual studio 2010\Projects\Converter\Converter\obj\Debug\Converter.pdb
+c:\users\christopher\documents\visual studio 2010\Projects\Converter\Converter\Bin\Debug\AppManifest.xaml
+c:\users\christopher\documents\visual studio 2010\Projects\Converter\Converter\Bin\Debug\Converter.xap
+c:\users\christopher\documents\visual studio 2010\Projects\Converter\Converter\obj\Debug\XapCacheFile.xml
